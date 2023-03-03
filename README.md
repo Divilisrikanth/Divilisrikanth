@@ -1,5 +1,5 @@
 ### Hi👋 I'm Divil Srikanth
-<h1 align="center">Hi 👋, I'm Divili Srikanth</h1>
+
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on **React App**
