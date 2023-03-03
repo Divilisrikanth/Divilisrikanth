@@ -1,6 +1,6 @@
 ### Hi👋 I'm Divil Srikanth
 
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 - 🔭 I’m currently working on **React App**
 
