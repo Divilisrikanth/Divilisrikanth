@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **React App**
+- 🔭 I’m currently working on **MEARN STACK PROJECT**
 
 - 🌱 I’m currently learning **Full Stack Developer**
 
