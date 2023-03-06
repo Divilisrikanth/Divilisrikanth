@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MEARN STACK PROJECT**
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **MEARN,Java**
 
